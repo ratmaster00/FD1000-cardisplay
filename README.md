@@ -288,9 +288,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [FD1000A Datasheet](https://www.finechips.com)
+- [FD1000A Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/437715/FINECHIPS/FD1000A.html)
 - [Arduino Reference](https://www.arduino.cc/reference/en/)
-- [Project Blog](https://yourblog.com)
 
 ---
 
