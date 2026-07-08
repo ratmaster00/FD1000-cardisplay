@@ -5,10 +5,6 @@
 
 A complete Arduino library for controlling the 14-segment display from a 2006 Hyundai Getz radio. This library allows you to display text, scroll messages, control icons, and show custom graphics on the original FD1000A-driven LCD panel.
 
-## 📸 Demo
-
-![Display Demo](https://via.placeholder.com/600x100/1a1a2e/00ff88?text=CRAZY%3F+I+WAS+CRAZY+ONCE)
-
 ## 🎯 Features
 
 - **14-Segment Display Control** - Full alphanumeric support with proper letter rendering
